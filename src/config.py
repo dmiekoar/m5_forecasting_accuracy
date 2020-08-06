@@ -6,6 +6,13 @@ AUX_PATH = '/media/dani/MyBackup/Shared/m5_archive/auxiliar/'
 EXT_HD = '/media/dani/SAMSUNG500/m5/updated_data/'
 SUPPORT_PATH = '/media/dani/SAMSUNG500/m5/updated_data/_base_files/'
 
+ARCHIVE_PATH = '/media/dani/MyBackup/Shared/m5_archive/'
+LOCAL_PATH = 'data/'
+EXT_HD = '/media/dani/SAMSUNG500/m5/updated_data/'
+STORE_PATH = '/media/dani/MyBackup/Shared/m5_archive/store_data/'
+STORE_PATH_local = '/media/dani/MyBackup/Shared/m5_archive/store_data/'
+
+
 # AWS
 bucket = 'mybucket-ir'                               
 prefix = 'm5_forecasting_accuracy-master/'
