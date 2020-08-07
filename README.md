@@ -10,7 +10,7 @@ For more details please visit [Kaggle](https://www.kaggle.com/c/m5-forecasting-a
 
 ---
 
-This solution ranked 28th out of 5558 teams, placing it at the top 1%. You can find details of my proposed solution below, as well as code available at [src](https://github.com/dmiekoar/m5_forecasting_accuracy/tree/master/src) folder.
+This solution ranked 28th out of 5558 teams, placing it at the top 1%. You can find details of my proposed solution below, as well as code at [src](https://github.com/dmiekoar/m5_forecasting_accuracy/tree/master/src) folder.
 
 #### 1. Pre Processing
 In this section I reshape the dataset so we can draw insights more easily as well as start shaping it into a format we could feed into our model.
